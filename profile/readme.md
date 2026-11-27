@@ -1,5 +1,3 @@
-# Viante.ai
-
 ### Advanced Facial Recognition, Biometrics & Computer Vision
 
 Viante.ai develops advanced facial recognition technology, biometric algorithms, and intelligent computer vision solutions for businesses and organizations.
